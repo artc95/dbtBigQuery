@@ -1,12 +1,11 @@
-default:
+# Note that only one of these targets is required
+
+my-bigquery-db:
   target: dev
   outputs:
     dev:
-      type: postgres
-      host: (DO NOT VERSION CONTROL SENSITIVE INFO!)
-      user: (DO NOT VERSION CONTROL SENSITIVE INFO!)
-      password: (DO NOT VERSION CONTROL SENSITIVE INFO!)
-      port: 5432
-      dbname: (DO NOT VERSION CONTROL SENSITIVE INFO!)
-      schema: (DO NOT VERSION CONTROL SENSITIVE INFO!)
-      threads: 4
+      type: bigquery
+      method: oauth
+      project: dbt-bigquery-423209
+      dataset: dbtBigQuery # You can also use "schema" here
+      threads: 4 # Must be a value of 1 or greater 

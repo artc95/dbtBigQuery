@@ -1,2 +1,2 @@
 dbt-core
-dbt-postgres  # replace based on your data warehouse
+dbt-bigquery  # replace based on your data warehouse

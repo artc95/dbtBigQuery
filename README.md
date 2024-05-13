@@ -3,10 +3,11 @@ Welcome to your new dbt project!
 ### Setup to run locally (using dbt Core)
 - Create virtual environment and activate it
 ```
-python3 -m venv .venv # create a virtual environment
+python3 -m venv <name of virtual environment> # create a virtual environment
+e.g. python3 -m venv dbtBigQuery_venv
 ```
 
-- **NOTE:** This project uses Postgres as data warehouse. See [setup instructions](https://docs.getdbt.com/docs/core/connect-data-platform/postgres-setup) for other data warehouses.
+- **NOTE:** This project uses BigQuery as data warehouse. See [setup instructions](https://docs.getdbt.com/docs/core/connect-data-platform/bigquery-setup) for other data warehouses.
 
 - Install project `requirements.txt` into virtual environment:
     - in `requirements.txt`, replace `dbt-postgres` adapter package if not using Postgres
