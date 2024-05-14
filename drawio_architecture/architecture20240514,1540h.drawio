@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T13:45:46.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0ng-3SEeaaregEmVRhml" version="24.0.2" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-14T13:53:17.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4tM3CPwXGbdlGwSD_DwL" version="24.0.2" type="device">
   <diagram name="Page-1" id="NrNHA7LVEQqbUdgzZfMk">
     <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="Uq40qOV0Ge05hz3BbGCF-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png;" vertex="1" parent="1">
           <mxGeometry x="316.37" y="90" width="78.26" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uq40qOV0Ge05hz3BbGCF-9" value="TRANSFORM&lt;div&gt;degiro_bonds.csv&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="359" y="147" width="112" height="41" as="geometry" />
+        <mxCell id="Uq40qOV0Ge05hz3BbGCF-9" value="TRANSFORM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="155" width="94" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Uq40qOV0Ge05hz3BbGCF-10" value="project:&amp;nbsp;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;dbt-bigquery-423209&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265.5" y="305" width="180" height="30" as="geometry" />

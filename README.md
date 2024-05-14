@@ -1,7 +1,8 @@
 Welcome to your new dbt project!
 
-Architecture:
-![architecture](https://mermaid.ink/img/pako:eNpVkM1qw0AMhF9F6NRC_AI-FBq7zSWlhebmzUF45eyS7A9rmRBsv3vXNoVWJzHzjRAzYhs0Y4ndLdxbQ0ngVCsPeV6byiTbi6P-DEXxMh1YwAXPjwn2T4cAvQkxWn953vj9AkE1HheMQYz113mzqjX_6XmCujlSlBDPf53TPUzw1tgvk8__d0zinHpvOio7KlpKUFFaEdyh4-TI6vz-uCgKxbBjhWVeNXc03ESh8nNGaZDw_fAtlpIG3uEQNQnXli6J3K_I2kpIH1sjazHzDwZeXUA?type=png)
+### Architecture:
+
+![architecture](https://github.com/artc95/dbtBigQuery/blob/master/drawio_architecture/architecture20240514%2C1540h.png?raw=true)
 
 ### Setup to run locally (using dbt Core)
 - Create virtual environment and activate it
