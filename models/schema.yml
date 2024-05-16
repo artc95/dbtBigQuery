@@ -1,9 +1,31 @@
 models:
-    - name: stg_locations
-      description: all shop locations 
-      columns:
-          - name: id
-            description: unique location id
-            tests:
-                - unique
-                - not_null
+  - name: stg_inventory_levels
+    description: amount of available inventory for each product variant, at different locations
+    columns:
+      - name: inventory_item_id
+        tests:
+          - unique
+          - not_null
+          - relationships:
+              to: ref("stg_products")
+              field: inventory_item_id
+      - name: location_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref("stg_locations")
+              field: location_id
+  - name: stg_locations
+    description: all shop locations 
+    columns:
+      - name: location_id
+        description: unique location id
+        tests:
+            - unique
+            - not_null
+  - name: stg_products
+    description: all product variants
+    columns:
+      - name: product_id
+        tests:
+          - not_null
