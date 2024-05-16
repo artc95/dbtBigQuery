@@ -1,0 +1,4 @@
+id,name,zip,province,country,created_at,updated_at,country_code,country_name,province_code,legacy,active,localized_country_name
+95391711541,Singapore,,,SG,2024-05-14T21:11:18+08:00,2024-05-15T19:13:39+08:00,SG,Singapore,,FALSE,TRUE,Singapore
+95427658037,Belgium,,,BE,2024-05-14T17:29:14+08:00,2024-05-15T19:11:07+08:00,BE,Belgium,,FALSE,TRUE,Belgium
+99048292661,China,,,CN,2024-05-14T19:10:23+08:00,2024-05-15T19:10:23+08:00,CN,China,,FALSE,TRUE,China

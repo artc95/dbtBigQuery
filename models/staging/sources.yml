@@ -1,0 +1,7 @@
+sources:
+  - name: dbtBigQuery # for BigQuery, use dataset (i.e. under project)
+    database: dbt-bigquery-423209 # for BigQuery, use project
+    tables:
+      - name: locations
+      - name: inventory_levels
+      - name: products

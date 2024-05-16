@@ -1,0 +1,10 @@
+id,product_id,title,price,sku,position,inventory_policy,compare_at_price,fulfillment_service,option1,option2,option3,created_at,taxable,barcode,inventory_item_id,inventory_quantity,old_inventory_quantity,requires_shipping
+47534264058165,8966606946613,small,80,fire-s,1,deny,0,manual,small,,,2024-05-14T19:10:26+08:00,FALSE,,49592716230965,2,2,TRUE
+47534264090933,8966606946613,medium,80,fire-m,2,deny,0,manual,medium,,,2024-05-14T19:10:26+08:00,FALSE,,49592716263733,1,1,TRUE
+47534264123701,8966606946613,large,80,fire-l,3,deny,0,manual,large,,,2024-05-14T19:10:26+08:00,FALSE,,49592716296501,0,0,TRUE
+47603386745141,8991063310645,small,80,water-s,1,deny,0,manual,small,,,2024-05-14T19:10:26+08:00,FALSE,,49661765386549,7,7,TRUE
+47603386777909,8991063310645,medium,80,water-m,2,deny,0,manual,medium,,,2024-05-14T19:10:26+08:00,FALSE,,49661765419317,5,5,TRUE
+47603386810677,8991063310645,large,80,water-l,3,deny,0,manual,large,,,2024-05-14T19:10:26+08:00,FALSE,,49661765452085,1,1,TRUE
+47603386908981,8991063376181,small,80,earth-s,1,deny,0,manual,small,,,2024-05-14T19:10:26+08:00,FALSE,,49661765550389,4,4,TRUE
+47603386941749,8991063376181,medium,80,earth-m,2,deny,0,manual,medium,,,2024-05-14T19:10:27+08:00,FALSE,,49661765583157,0,0,TRUE
+47603386974517,8991063376181,large,80,earth-l,3,deny,0,manual,large,,,2024-05-14T19:10:27+08:00,FALSE,,49661765615925,0,0,TRUE

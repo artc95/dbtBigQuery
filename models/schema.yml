@@ -1,12 +1,9 @@
-
-version: 2
-
 models:
-    - name: bonds_country
-      description: no. of bonds by country 
+    - name: stg_locations
+      description: all shop locations 
       columns:
-          - name: country_iso_alpha2
-            description: ISO alpha-2 country code
+          - name: id
+            description: unique location id
             tests:
                 - unique
                 - not_null
