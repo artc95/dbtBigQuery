@@ -2,12 +2,11 @@ Welcome to your new dbt project!
 
 ### Architecture:
 
-![architecture](https://github.com/artc95/dbtBigQuery/blob/inventory_dashboard/drawio_architecture/architecture20240514%2C1540h.png?raw=true)
+![architecture](https://github.com/artc95/dbtBigQuery/blob/inventory_dashboard/diagrams/architecture20240514%2C1540h.png?raw=true)
 
 ### Shopify
 - docs:
-    - [shopify_python_api](https://shopify.github.io/shopify_python_api/?shpxid=7b4610bf-3D78-42A2-1E81-CC6F5A1633C3)
-    - [InventoryLevel](https://shopify.dev/docs/api/admin-rest/2024-04/resources/inventorylevel)
+    - [Shopify REST Admin API Endpoints e.g. InventoryLevel](https://shopify.dev/docs/api/admin-rest/2024-04/resources/inventorylevel)
 
 ### Setup to run locally (using dbt Core)
 - Create virtual environment and activate it
