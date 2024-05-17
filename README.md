@@ -1,5 +1,3 @@
-Welcome to your new dbt project!
-
 ### Entity Relationship / Schema:
 
 ![schema](https://github.com/artc95/dbtBigQuery/blob/inventory_dashboard/diagrams/schema.png?raw=true)
@@ -8,9 +6,6 @@ Welcome to your new dbt project!
 
 ![architecture](https://github.com/artc95/dbtBigQuery/blob/inventory_dashboard/diagrams/architecture.png?raw=true)
 
-### Shopify
-- docs:
-    - [Shopify REST Admin API Endpoints e.g. InventoryLevel](https://shopify.dev/docs/api/admin-rest/2024-04/resources/inventorylevel)
 
 ### Setup to run locally (using dbt Core)
 - Create virtual environment and activate it
