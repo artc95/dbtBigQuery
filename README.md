@@ -6,7 +6,7 @@ Welcome to your new dbt project!
 
 ### Architecture:
 
-![architecture](https://github.com/artc95/dbtBigQuery/blob/inventory_dashboard/diagrams/architecture20240514%2C1540h.png?raw=true)
+![architecture](https://github.com/artc95/dbtBigQuery/blob/inventory_dashboard/diagrams/architecture.png?raw=true)
 
 ### Shopify
 - docs:
