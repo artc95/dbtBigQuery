@@ -1,3 +1,4 @@
+version: 2
 models:
   - name: stg_inventory_levels
     description: amount of available inventory for each product variant, at different locations

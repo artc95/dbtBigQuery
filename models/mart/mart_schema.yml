@@ -1,0 +1,12 @@
+version: 2
+models:
+  - name: fct_inventory_available
+    description: amount of available inventory for each product variant, at different locations
+    columns:
+      - name: inventory_item_id
+        tests:
+          - unique
+          - not_null
+          - relationships:
+              to: ref("stg_products")
+              field: inventory_item_id
